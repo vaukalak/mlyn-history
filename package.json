@@ -1,8 +1,9 @@
 {
   "name": "mlyn-history",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "simple history management from mlyn",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "types/index.d.ts",
   "repository": "git@github.com:vaukalak/mlyn-history.git",
   "author": "vaukalak <lahmataja.pa4vara@gmail.com>",
   "license": "MIT",
